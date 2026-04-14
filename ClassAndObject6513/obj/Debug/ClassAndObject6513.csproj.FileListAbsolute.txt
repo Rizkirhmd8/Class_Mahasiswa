@@ -1,0 +1,8 @@
+D:\25.11.6513\ClassAndObject6513\ClassAndObject6513\bin\Debug\ClassAndObject6513.exe.config
+D:\25.11.6513\ClassAndObject6513\ClassAndObject6513\bin\Debug\ClassAndObject6513.exe
+D:\25.11.6513\ClassAndObject6513\ClassAndObject6513\bin\Debug\ClassAndObject6513.pdb
+D:\25.11.6513\ClassAndObject6513\ClassAndObject6513\obj\Debug\ClassAndObject6513.csproj.AssemblyReference.cache
+D:\25.11.6513\ClassAndObject6513\ClassAndObject6513\obj\Debug\ClassAndObject6513.csproj.SuggestedBindingRedirects.cache
+D:\25.11.6513\ClassAndObject6513\ClassAndObject6513\obj\Debug\ClassAndObject6513.csproj.CoreCompileInputs.cache
+D:\25.11.6513\ClassAndObject6513\ClassAndObject6513\obj\Debug\ClassAndObject6513.exe
+D:\25.11.6513\ClassAndObject6513\ClassAndObject6513\obj\Debug\ClassAndObject6513.pdb

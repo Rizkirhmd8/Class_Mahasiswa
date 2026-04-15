@@ -1,0 +1,7 @@
+D:\25.11.6513\Class_Mahasiswa_6513\Class_Mahasiswa_6513\obj\Debug\Class_Mahasiswa_6513.csproj.AssemblyReference.cache
+D:\25.11.6513\Class_Mahasiswa_6513\Class_Mahasiswa_6513\obj\Debug\Class_Mahasiswa_6513.csproj.CoreCompileInputs.cache
+D:\25.11.6513\Class_Mahasiswa_6513\Class_Mahasiswa_6513\bin\Debug\Class_Mahasiswa_6513.exe.config
+D:\25.11.6513\Class_Mahasiswa_6513\Class_Mahasiswa_6513\bin\Debug\Class_Mahasiswa_6513.exe
+D:\25.11.6513\Class_Mahasiswa_6513\Class_Mahasiswa_6513\bin\Debug\Class_Mahasiswa_6513.pdb
+D:\25.11.6513\Class_Mahasiswa_6513\Class_Mahasiswa_6513\obj\Debug\Class_Mahasiswa_6513.exe
+D:\25.11.6513\Class_Mahasiswa_6513\Class_Mahasiswa_6513\obj\Debug\Class_Mahasiswa_6513.pdb

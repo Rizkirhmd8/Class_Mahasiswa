@@ -1,0 +1,3 @@
+D:\25.11.6513\ClassAndMahasiswa\ClassAndMahasiswa\obj\Debug\ClassAndMahasiswa.csproj.AssemblyReference.cache
+D:\25.11.6513\ClassAndMahasiswa\ClassAndMahasiswa\obj\Debug\ClassAndMahasiswa.csproj.SuggestedBindingRedirects.cache
+D:\25.11.6513\ClassAndMahasiswa\ClassAndMahasiswa\obj\Debug\ClassAndMahasiswa.csproj.CoreCompileInputs.cache
